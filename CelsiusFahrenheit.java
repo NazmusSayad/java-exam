@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 
 class Calculator {
   public static void fahrenheitToCelsius(double fahrenheit) {
